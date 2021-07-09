@@ -1,0 +1,124 @@
+1625743845963	geckodriver	INFO	Listening on 127.0.0.1:58149
+1625743849038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofileqSs9xl"
+1625743849586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofileqSs9xl\\search.json.mozlz4", (void 0)))
+1625743852032	Marionette	INFO	Listening on port 62594
+1625743852216	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+JavaScript error: http://test.evoltrader.com/static/js_custom/invest/user_config.js, line 614: ReferenceError: token is not defined
+1625744053349	Marionette	INFO	Stopped listening on port 62594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

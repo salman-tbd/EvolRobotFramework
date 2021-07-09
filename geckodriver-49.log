@@ -1,0 +1,13 @@
+1625597108591	geckodriver	INFO	Listening on 127.0.0.1:57848
+1625597111646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofile0HHjgj"
+1625597112036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofile0HHjgj\\search.json.mozlz4", (void 0)))
+1625597114053	Marionette	INFO	Listening on port 61103
+1625597114336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://test.evoltrader.com/signup, line 344: TypeError: arguments is undefined
+[Child 13976, MediaDecoderStateMachine #1] WARNING: Decoder=1723a954000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 13976, MediaDecoderStateMachine #1] WARNING: Decoder=1723a954000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625597516285	Marionette	INFO	Stopped listening on port 61103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

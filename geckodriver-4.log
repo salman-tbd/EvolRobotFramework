@@ -1,0 +1,9 @@
+1625310919063	geckodriver	INFO	Listening on 127.0.0.1:60371
+1625310922161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofilecBaMyo"
+1625310923585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofilecBaMyo\\search.json.mozlz4", (void 0)))
+1625310930445	Marionette	INFO	Listening on port 60197
+1625310930741	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1625311156820	Marionette	INFO	Stopped listening on port 60197

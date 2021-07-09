@@ -1,0 +1,8 @@
+1625595714849	geckodriver	INFO	Listening on 127.0.0.1:61521
+1625595717882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofileXW4c01"
+1625595718399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofileXW4c01\\search.json.mozlz4", (void 0)))
+1625595720816	Marionette	INFO	Listening on port 51830
+1625595721078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://test.evoltrader.com/signup, line 344: TypeError: arguments is undefined
+1625595869801	Marionette	INFO	Stopped listening on port 51830

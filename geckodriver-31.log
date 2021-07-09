@@ -1,0 +1,12 @@
+1625469504938	geckodriver	INFO	Listening on 127.0.0.1:56983
+1625469507981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofilejkZ9GU"
+1625469508873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shrikant\\AppData\\Local\\Temp\\rust_mozprofilejkZ9GU\\search.json.mozlz4", (void 0)))
+1625469513880	Marionette	INFO	Listening on port 49261
+1625469513990	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16000, MediaDecoderStateMachine #1] WARNING: Decoder=1edcfcad000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 16000, MediaDecoderStateMachine #1] WARNING: Decoder=1edcfcad000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625469919471	Marionette	INFO	Stopped listening on port 49261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
